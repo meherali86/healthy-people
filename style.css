@@ -1,0 +1,28 @@
+.navbar-light,
+footer {
+    background-color: rgb(231, 235, 15) !important;
+}
+
+.hr {
+    height: 0.2px;
+    width: 90%;
+    background-color: rgb(220 217 217);
+}
+
+header a,
+h2 {
+    color: rgb(202 206 7) !important;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+}
+
+footer .icons-ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer .icons-ul i {
+    font-size: 2rem;
+    color: rgb(19, 18, 18);
+}
